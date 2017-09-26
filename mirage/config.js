@@ -1,5 +1,6 @@
 export default function() {
-
+   this.excludeLodash = true;
+   this.options.excludeLodash = true;
   // These comments are here to help you get started. Feel free to delete them.
 
   /*
